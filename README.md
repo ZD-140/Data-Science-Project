@@ -10,7 +10,7 @@
 
 ### Group Information
 
-- Group Number: 2
+
 - Group Members:
   - Harry Zhao
   - Yi Pan
